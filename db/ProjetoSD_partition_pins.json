@@ -1,0 +1,225 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "vet_res[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vet_res[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vet_res[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vet_res[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vet_res[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				},
+				{
+					"name" : "C",
+					"strict" : false
+				},
+				{
+					"name" : "D",
+					"strict" : false
+				},
+				{
+					"name" : "E",
+					"strict" : false
+				},
+				{
+					"name" : "G",
+					"strict" : false
+				},
+				{
+					"name" : "H",
+					"strict" : false
+				},
+				{
+					"name" : "I",
+					"strict" : false
+				},
+				{
+					"name" : "J",
+					"strict" : false
+				},
+				{
+					"name" : "K",
+					"strict" : false
+				},
+				{
+					"name" : "L",
+					"strict" : false
+				},
+				{
+					"name" : "M",
+					"strict" : false
+				},
+				{
+					"name" : "N",
+					"strict" : false
+				},
+				{
+					"name" : "led_sinal_vet_res",
+					"strict" : false
+				},
+				{
+					"name" : "led_sinalA",
+					"strict" : false
+				},
+				{
+					"name" : "led_sinalB",
+					"strict" : false
+				},
+				{
+					"name" : "Ba",
+					"strict" : false
+				},
+				{
+					"name" : "Ca",
+					"strict" : false
+				},
+				{
+					"name" : "Ha",
+					"strict" : false
+				},
+				{
+					"name" : "Ia",
+					"strict" : false
+				},
+				{
+					"name" : "Ja",
+					"strict" : false
+				},
+				{
+					"name" : "Ka",
+					"strict" : false
+				},
+				{
+					"name" : "La",
+					"strict" : false
+				},
+				{
+					"name" : "Bb",
+					"strict" : false
+				},
+				{
+					"name" : "Cb",
+					"strict" : false
+				},
+				{
+					"name" : "Hb",
+					"strict" : false
+				},
+				{
+					"name" : "Ib",
+					"strict" : false
+				},
+				{
+					"name" : "Jb",
+					"strict" : false
+				},
+				{
+					"name" : "Kb",
+					"strict" : false
+				},
+				{
+					"name" : "Lb",
+					"strict" : false
+				},
+				{
+					"name" : "Mb",
+					"strict" : false
+				},
+				{
+					"name" : "Nb",
+					"strict" : false
+				},
+				{
+					"name" : "Ma",
+					"strict" : false
+				},
+				{
+					"name" : "Na",
+					"strict" : false
+				},
+				{
+					"name" : "led_status",
+					"strict" : false
+				},
+				{
+					"name" : "led_sinal_vet_res_disp",
+					"strict" : false
+				},
+				{
+					"name" : "Seletor[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seletor[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vectorrB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seletor[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
